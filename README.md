@@ -1,7 +1,7 @@
 # ClipperLua
 
-**Clipper** - The Clipper library performs clipping, offsetting and triangulation for lines or polygons.  
-All four boolean clipping operations are supported - intersection, union, difference and exclusive-or.  
+**Clipper** - The Clipper library performs clipping, offsetting and triangulation for polygons.
+All four boolean clipping operations are supported - intersection, union, difference and exclusive-or.
 
 Polygons can be of any shape including self-intersecting polygons. The library is based on
 Vatti's clipping algorithm and runs on beta version 10.0 which is a significant rewrite of
